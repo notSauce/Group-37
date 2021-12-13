@@ -36,10 +36,10 @@ future = UTCTime (ModifiedJulianDay 562000) (secondsToDiffTime 0)
 
 [-- Downloaded via the cookie for the web link 
 cookie :: Cookie
-cookie = Cookie { cookie_name = "Fill Insert Cookie Name"
-                , cookie_value = "Fill Insert Cookie value"
+cookie = Cookie { cookie_name = "__cf_bm"
+                , cookie_value = "YpgL0TJslRbYiotE3NrGi4IZ50plgPiW4XfNRLt.nsU-1639420887-0-AQ60Hwu1PXYUbAPi2DsBQejEWVj2uNpJUKLYLwpuRpu0XH0Io7vLfu5CL38HEoWwR3MiG48TdXlxVzOD2YUevqY="
                 , cookie_expiry_time = future
-                , cookie_domain = "Fill Insert Domain"
+                , cookie_domain = ".www.met.police.uk"
                 , cookie_path = "/"
                 , cookie_creation_time = past
                 , cookie_last_access_time = past
